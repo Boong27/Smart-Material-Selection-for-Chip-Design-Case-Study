@@ -1,0 +1,13 @@
+Criteria,Si,GaN,SiC
+Switching Frequency (kHz),200.0,1500.0,500.0
+Gate Charge (nC),40.0,5.0,20.0
+On-Resistance (mΩ),100.0,25.0,50.0
+"Size Index (1=Large, 0=Small)",1.0,0.4,0.7
+Voltage Handling (V),600.0,650.0,1200.0
+Thermal Conductivity (W/m·K),150.0,130.0,490.0
+Switching Loss (0–1),1.0,0.7,0.3
+Max Operating Temp (°C),125.0,100.0,200.0
+CMOS Compatibility (1/0),1.0,0.0,0.0
+Cost (0–1),0.2,0.85,0.9
+Yield (%),98.0,60.0,50.0
+Toolchain Support (1/0),1.0,0.3,0.2
